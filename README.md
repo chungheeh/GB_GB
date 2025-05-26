@@ -44,3 +44,4 @@ SELECT * FROM profiles LIMIT 10;
 - 실제 데이터가 있는 환경에서는 데이터 손실을 방지하기 위해 마이그레이션을 주의해서 실행하세요.
 # genbrigde_web
 # genbridge_m
+# genbridge_m
